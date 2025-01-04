@@ -1,4 +1,4 @@
-# ghoomba
+# BeanVirus
 Do not download this if you have less than 8gb of ram.
 Also 
 If you like Beans than please download this and run the app. 
